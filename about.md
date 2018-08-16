@@ -13,9 +13,15 @@ software products with ease of use.  Our motto is to keep the process as
 simple as possible and take the extra time up front to make
 the underlying architecture well thought out.
 
-##### Contact Us
+### Contact Us
 
+##### Email
+
+```
 arcadiangroup@gmail.com
+```
+
+##### Gitter
 
 **[Material-UI Gitter](https://gitter.im/mui-org/material-ui)**
-logged in as **stormasm**
+logged in as **[stormasm](https://github.com/stormasm?tab=repositories)**
