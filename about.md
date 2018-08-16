@@ -18,5 +18,4 @@ the underlying architecture well thought out.
 arcadiangroup@gmail.com
 
 [Material-UI Gitter](https://gitter.im/mui-org/material-ui)
-
-Michael Angerman logged in as **stormasm**
+logged in as **stormasm**
