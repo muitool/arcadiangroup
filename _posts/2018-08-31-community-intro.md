@@ -41,5 +41,3 @@ Initially, it could even be hosted as a static web site similar to the  tutorial
 [Material-UI Tutorial](https://stormasm.github.io/mui-tutorial/) is set up today.  In other words, no back end server would be needed.  If in the future, there is more demand for this site then it could be moved a simple hosted platform like Amazon or whatever other recommendations people would have.
 
 In another post we will outline the architecture and design of the jobs boards, but for now we just wanted to get the idea out there.
-
-# Documentation and Books
