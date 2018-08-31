@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Material UI"
+title:  "Material UI Tutorial"
 author: "Michael"
 ---
 
